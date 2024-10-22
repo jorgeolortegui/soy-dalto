@@ -1,0 +1,15 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background: #7532e0;
+    border: 10px solid rgb(43, 202, 128);
+    padding: 20px 50px;
+    margin: 20px;
+    margin-left: 100px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}

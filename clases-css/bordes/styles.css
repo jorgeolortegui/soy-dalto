@@ -1,0 +1,13 @@
+div{
+    background: red;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 100px;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+}
