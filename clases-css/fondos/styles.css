@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+.box{
+    width: 450px;
+    height: 280px;
+    margin: 20px;
+    background: #a5e;
+    background-image: url(https://graficatraslasierra.com/wp-content/uploads/2023/04/html-css.png);
+    background-size: cover;
+    background-position: center;
+}

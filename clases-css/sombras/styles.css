@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.box{
+    width: 300px;
+    height: 310px;
+    background: #e2e2e2;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 0 0 40px 0 #0007;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    border-radius: 15px;
+}
+
+h2{
+    padding: 10px;
+    color:blue;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
